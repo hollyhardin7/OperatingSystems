@@ -1,0 +1,20 @@
+Holly Hardin
+11/30/2018
+CIS 415
+Project 2
+
+I believe my Part 4 for Scenarios 1 and 2 are working correctly. They compiled
+with no warnings or errors. There were no memory leaks. This project has
+been difficult but has taught me a lot for what I have gotten done!
+
+I used Matt's skeleton code for starting my code, circular_buffer.c
+I referenced a piece of code from Joe Sventek.
+I have helped Claire and I have worked in a group with Daniel and Derrick.
+
+My code can be ran by executing "make" and:
+1. Executing "./P4_Scenario1" for running the first scenario
+2. Executing "./P4_Scenario2" for running the second scenario
+
+I output information according to the grading criteria the best I could.
+Output for scenario 1 can be found in the P4_Scenario1_output.txt file
+and output for scenario 2 can be found in the P4_Scenario2_output.txt file
